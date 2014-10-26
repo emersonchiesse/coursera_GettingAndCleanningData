@@ -8,8 +8,8 @@ There are three files:
 - run_analysis.R: script in R to process data.
 
 The run_analysis.R works by this way:
-- read data from train data set
-- read data from test data set
+- read train data set
+- read test data set
 - merge data
-- process data
+- process data, extracting mean and standard deviation 
 - save results

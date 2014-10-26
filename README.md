@@ -1,6 +1,6 @@
 Welcome to Course Project for "Getting and Cleaning Data" course from Coursera.
 
-The objective for this repository is to contain the results to the project of this course, with a script to transform collected data to compreensive informations.
+The objective for this repository is to contain the results to the project of this course, with a script to transform raw collected data to tidy data, compreensive informations.
 
 There are three files: 
 - README.md: this file.
